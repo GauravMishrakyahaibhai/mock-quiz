@@ -78,6 +78,9 @@ npm run dev
 
 ---
 
+## Update added so far 
+Hamburger Navigation Bar for Mobile users!
+
 ## 🚀 Deployment
 
 🌍 Deployed on **Vercel** for fast and reliable hosting.
